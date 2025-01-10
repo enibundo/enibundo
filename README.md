@@ -12,7 +12,8 @@ Throughout my professional career I have had the chance to work in amazing teams
 - wallet infrastructure development
 - financial fund tokenization (web3)
 - dapp and smart contract development
-  (my full cv is found here: http://www.bun.do/cvenibundoen.pdf)
+
+(my full cv is found here: http://www.bun.do/cvenibundoen.pdf)
 
 In terms of stack nowadays I mostly do typescript, node, react, nextJs, rust, solidity, terraform, aws and everything around distributed systems and microservices.
 I consider myself quite flexible in terms of tech stack and like to learn continously.
