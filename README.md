@@ -19,7 +19,7 @@ In terms of stack nowadays I mostly do _typescript, node, react, nextJs, rust, s
 I consider myself quite flexible in terms of tech stack and like to learn continously.
 
 - 🌱 I’m currently learning about COW protocol, MEV and flashbots
-- 🔭 I’m currently working on blockchain implementation in Rust that could benefit as a learning place for new comers (pinned here below)
+- 🔭 I’m currently working on blockchain implementation in Rust (for fun 😄)
 - 👯 I’m looking to collaborate on blockchain or finance projects
 
 <!--
