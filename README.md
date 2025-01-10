@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate technologist with particular interest in decentralization.
+I'm a passionate technologist with particular interest in _decentralization_.
 
 Throughout my professional career I have had the chance to work in amazing teams in domains like:
 
@@ -15,7 +15,7 @@ Throughout my professional career I have had the chance to work in amazing teams
 
 (my full cv is found here: http://www.bun.do/cvenibundoen.pdf)
 
-In terms of stack nowadays I mostly do typescript, node, react, nextJs, rust, solidity, terraform, aws and everything around distributed systems and microservices.
+In terms of stack nowadays I mostly do _typescript, node, react, nextJs, rust, solidity, terraform, aws_ and everything around _distributed systems_ and _microservices_.
 I consider myself quite flexible in terms of tech stack and like to learn continously.
 
 - 🌱 I’m currently learning about COW protocol, MEV and flashbots
