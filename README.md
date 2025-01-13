@@ -7,7 +7,7 @@ Throughout my professional career I have had the chance to work in amazing teams
 In terms of stack nowadays I mostly do _typescript, node, react, nextJs, rust, solidity, terraform, aws_ and usually work with _distributed systems_ and _microservices_.
 I consider myself quite flexible in terms of tech stack and like to learn continously.
 
-- 🌱 I’m currently learning about COW protocol, MEV and flashbots
+- 🌱 I’m currently learning about COW protocol, Solvers, MEV and flashbots
 - 🔭 I’m currently working on blockchain implementation in Rust (for fun 😄)
 - 👯 I’m looking to collaborate on blockchain or finance projects
 
