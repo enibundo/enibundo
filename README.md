@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate technologist with particular interest in _decentralization_.
+I'm a passionate technologist with particular interest in _decentralization and distributed systems_.
 
 Throughout my professional career I have had the chance to work in amazing teams in domains like: financial derivatives pricing, trading, arbitrage, risk calculation, hedging, insurance pricing, wallet infrastructure development, financial fund tokenization (web3), dapp and smart contract development, etc. (my full cv is found here: http://www.bun.do/cvenibundoen.pdf)
 
