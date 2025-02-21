@@ -9,7 +9,7 @@ I consider myself quite flexible in terms of tech stack and like to learn contin
 
 - 🌱 I’m currently learning about COW protocol, Solvers, MEV and flashbots
 - 🔭 I’m currently working on blockchain implementation in Rust (for fun 😄)
-- 👯 I’m looking to collaborate on blockchain or finance projects
+- 👯 ~~I’m looking to collaborate on blockchain or finance projects~~
 
 <!--
 **enibundo/enibundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
