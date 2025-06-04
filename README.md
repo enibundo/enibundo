@@ -2,7 +2,7 @@
 
 I'm a passionate technologist with particular interest in _decentralization and distributed systems_.
 
-Throughout my professional career I have had the chance to work in amazing teams in domains like: financial derivatives pricing, trading, arbitrage, risk calculation, hedging, insurance pricing, wallet infrastructure development, financial fund tokenization (web3), dapp and smart contract development, etc. (my full cv is found here: http://www.bun.do/cvenibundoen.pdf)
+Throughout my professional career I have had the chance to work in amazing teams in domains like: financial derivatives pricing, trading, arbitrage, risk calculation, hedging, insurance pricing, wallet infrastructure development, financial fund tokenization (web3), dapp and smart contract development, etc. (my full cv is found here: https://www.bun.do/cvenibundoen.pdf)
 
 In terms of stack nowadays I mostly do _kotlin, typescript, node, react, nextJs, rust, solidity, terraform, aws_ and usually work in a _distributed architecture_ using _microservices and messaging brokers_ and temporal.
 I consider myself quite flexible in terms of tech stack and like to learn continously.
