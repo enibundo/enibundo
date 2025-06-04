@@ -9,7 +9,7 @@ I consider myself quite flexible in terms of tech stack and like to learn contin
 
 - 🌱 I’m currently learning about COW protocol, Solvers, MEV and flashbots
 - 🔭 I’m currently working on blockchain implementation in Rust (for funs 😄)
-- 👯 I am a blockchain engineer at allunity.com 
+- 👯 I am a blockchain engineer at [https://allunity.com](allunity.com )
 
 <!--
 **enibundo/enibundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
