@@ -40,6 +40,4 @@ More recently I've started hacking on offline projects, with a pinch of security
 <pre>
 --
 bun.do
-</pre>
- 
-Claude finished the response
+</pre
