@@ -5,11 +5,17 @@
  / /___/ /|  // /   / /_/ / /_/ / /|  / /_/ / /_/ / 
 /_____/_/ |_/___/  /_____/\____/_/ |_/_____/\____/  
  
-Hi there. I'm a technologist with a particular interest in **decentralization** and **distributed systems**. These days I'm a blockchain engineer at [All-Unity](https://www.allunity.com).
+Hi there. I'm a technologist with a particular interest 
+in decentralization and distributed systems. 
+These days I'm a blockchain engineer at https://www.allunity.com.
  
-Over the years I've had the chance to work in great teams across financial derivatives pricing, trading, arbitrage, risk calculation, hedging, insurance pricing, wallet infrastructure, fund tokenization, dapps and smart contracts, and stablecoins.
+Over the years I've had the chance to work in great teams across 
+financial derivatives pricing, trading, arbitrage, risk calculation, 
+hedging, insurance pricing, wallet infrastructure, fund tokenization, 
+dapps and smart contracts, and stablecoins.
  
-More about me at https://bun.do, with the full CV https://bun.do/cv/ or as a https://bun.do/cvenibundoen.pdf.
+More about me at https://bun.do, with the full CV https://bun.do/cv/ 
+or as a https://bun.do/cvenibundoen.pdf.
  
 +-----------+-----------------------------------------------+
 | stack     | kotlin, typescript, rust, solidity            |
