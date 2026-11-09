@@ -7,10 +7,10 @@ Throughout my professional career I have had the chance to work in amazing teams
 In terms of stack nowadays I mostly do _kotlin, typescript, node, react, nextJs, rust, solidity, terraform, aws_ and usually work in a _distributed architecture_ using _microservices and messaging brokers_ (and recently _temporal_).
 I consider myself quite flexible in terms of tech stack and like to learn continously.
 
-- 🌱 I’m currently learning about COW protocol, Solvers, MEV and flashbots
-- 🔭 I’m currently working on blockchain implementation in Rust (for funs 😄)
 - 👯 I am a blockchain engineer at [All-Unity](https://www.allunity.com)
-
+- In my free time like to code blockchains, read about decentralisation, zk proofs, onchain protocols, read books (migjeni, fishta, noli most recently)
+- More recently I have started hacking offline projects with a pinch of security, automatisation, privacy
+  
 <!--
 **enibundo/enibundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
