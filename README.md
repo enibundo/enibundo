@@ -8,7 +8,12 @@ In terms of stack nowadays I mostly do _kotlin, typescript, node, react, nextJs,
 I consider myself quite flexible in terms of tech stack and like to learn continously.
 
 - 👯 I am a blockchain engineer at [All-Unity](https://www.allunity.com)
-- In my free time like to code blockchains, read about decentralisation, zk proofs, onchain protocols, read books (migjeni, fishta, noli most recently)
+- In my free time like to
+  - code blockchains
+  - read about decentralisation
+  - read/write on zk proofs
+  - onchain protocols
+  - read books (migjeni, fishta, noli last month)
 - More recently I have started hacking offline projects with a pinch of security, automatisation, privacy
   
 <!--
